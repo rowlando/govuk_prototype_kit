@@ -6,6 +6,7 @@
   "engines": {
     "node": ">=8.9.1 <9.0"
   },
+  "main": "start.js",
   "scripts": {
     "start": "node start.js",
     "lint": "standard",
